@@ -57,7 +57,7 @@ article{
 }
 /*///*********/
 fieldset{
-    background-image: url('/img/list-bg.png');
+    background-image: url('list-bg.png');
 height : 285px ;
 width : 930px ;
 }
@@ -72,6 +72,7 @@ grid-template-columns: 40px auto 40px auto;
 gap : 11px ;
 }
 /*********************************/
+/**********************************/
 .lastP{
     float : left ;
     padding-top: 10px ;
